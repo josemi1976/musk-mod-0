@@ -1,3 +1,5 @@
+# ejercicio github
+
 #6. Haz un programa que lea un número y que escriba el número de dígitos.
 num1 = int(input("esceribe  un número: "))
 num2 = num1
@@ -182,3 +184,4 @@ for reales in range(0,n+1):
         print(f"{reales**2}")
    
 print(f"La suma es: {suma}")
+print("ejercicio github")

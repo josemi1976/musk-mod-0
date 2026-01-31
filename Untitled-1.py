@@ -17,3 +17,4 @@ else:
     print(num)
     lista.append(num)
     diccionario[num]
+print("ejercicio github")

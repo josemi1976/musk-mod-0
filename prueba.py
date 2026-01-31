@@ -11,6 +11,7 @@ for i in range(0, n + 1):
         secuencia += ' + {}^{} '.format(i, 2)
     
 print('El resultado de la secuencia {} es {}'.format(secuencia, suma))
+print("ejercicio github")
     
 
     

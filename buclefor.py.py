@@ -1,3 +1,5 @@
+#cambios para github
+
 #1. Haz un programa que lea dos números a y b, y que escriba todos los números enteros a y b. 
 # Debe cumplirse que a < b. En caso que a > b, escribe los número de manera descendente.
 num =int(input("Introduce un número:"))
@@ -45,4 +47,4 @@ num=int(input("escribe un numero: "))
 for num2 in range(1,11):
     print(f"{num}x{num2}= {num*num2}")
     
-
+print("ejercicio github")

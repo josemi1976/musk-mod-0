@@ -87,5 +87,5 @@ elif num1==2:
    print("elegiste 2")
 elif num1==3:
    print("elegiste 3")
-
+print("ejercicio github")
 
